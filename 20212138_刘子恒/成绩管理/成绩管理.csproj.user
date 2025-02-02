@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="addStuInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addStuScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdmForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChooseCour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modifyPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SeeScores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SerModDel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StuForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
